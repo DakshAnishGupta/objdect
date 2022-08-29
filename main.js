@@ -42,5 +42,5 @@ function draw()
     rect(30, 60, 450, 640);
 
     fill("#0000FF");
-text("cat",200, 200);
+text("cat",350, 150);
 }
